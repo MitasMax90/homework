@@ -2,7 +2,8 @@ public class Loader {
     public static void main(String[] args) {
         int i = 10;
         do {
-            System.out.println("Я выполнился!");
+            System.out.println("Я выполнился, Братик!");
+            System.out.println("Я выполнился второй раз)!");
         } while (i < 1) ;
         i--;
 
